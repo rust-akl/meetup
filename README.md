@@ -22,3 +22,6 @@ Please feel free to reach out if you are keen to give a talk, or have suggestion
 - Post or message us on https://www.meetup.com/rust-akl/
 - Join the slack channel https://bit.ly/2wWEJi6
 - Email us at rustauckland@gmail.com
+
+# Code of Conduct
+Please see [here](https://github.com/rust-akl/meetup/blob/master/CODE_OF_CONDUCT.md)
