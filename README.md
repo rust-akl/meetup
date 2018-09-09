@@ -19,6 +19,6 @@ The meetup is at its early stage and are looking for stable sponsors (for meetup
 # Talks and Material
 Please feel free to reach out if you are keen to give a talk, or have suggestions for content or activities for future meetups. We are especially keen to hear from people who have used Rust in production!
 
-- Post or message us on (https://www.meetup.com/rust-akl/)[https://www.meetup.com/rust-akl/]
-- Join the slack channel (https://bit.ly/2wWEJi6)[https://bit.ly/2wWEJi6]
+- Post or message us on https://www.meetup.com/rust-akl/
+- Join the slack channel https://bit.ly/2wWEJi6
 - Email us at rustauckland@gmail.com
