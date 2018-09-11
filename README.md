@@ -14,7 +14,9 @@ Currently we are planning to meet once every month. We're always open to talk pr
 
 # Sponsorship
 
-The meetup is at its early stage and are looking for stable sponsors (for meetup space and/or food). If you'd like to sponsor events, including food at events, please send us an email rustauckland@gmail.com.
+Thanks to @movio for their generous sponsorship of venue and food for our inauguration!
+
+If you're a company passionate about Rust and would like to host a future Rust meetup, please send us an email rustauckland@gmail.com!
 
 # Talks and Material
 Please feel free to reach out if you are keen to give a talk, or have suggestions for content or activities for future meetups. We are especially keen to hear from people who have used Rust in production!
